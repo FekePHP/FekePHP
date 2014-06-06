@@ -3,7 +3,7 @@
  * Part of the Feke framework.
  *
  * @package Feke
- * @author Shohei Miyazawa
+ * @author Miyazawa
  * @since PHP 5.4
  * @license GNU General Public License (GPL)
  */
