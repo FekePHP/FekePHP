@@ -3,8 +3,8 @@
  * Part of the Feke framework.
  *
  * @package    feke
- * @version    0.4
- * @author     Shohei Miyazawa
+ * @version    0.4.0
+ * @author     Miyazawa
  * @license    GNU General Public License (GPL)
  * @copyright  Copyright (c) FekePHP (http://fekephp.com/)
  * @link       http://fekephp.com/
