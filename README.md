@@ -6,5 +6,12 @@ FekePHPは、PHP5.4向けMVCフレームワークです。
 ドキュメント:http://fekephp.com/
 
 ### 動作環境
-PHP5.4以上を対象としています。
+* PHP5.4以上
+* MySQL,SQLite,PostgreSQL
 
+### メイン機能
+* ルーティング
+* オートローダ
+* O/Rマッパー
+* テンプレートエンジン
+など
