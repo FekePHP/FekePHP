@@ -1,6 +1,6 @@
 ##FekePHP  php5.4 FrameWork
 
-FekePHPは、PHP5.4向けMVCフレームワークです。
+FekePHPは、現在開発中のPHP5.4向けMVCフレームワークです。
 データベースと簡単に連携でき、小中規模のアプリケーションを簡単に作成できるようになることを目標としています。
 
 ドキュメント:http://fekephp.com/
@@ -12,7 +12,7 @@ FekePHPは、PHP5.4向けMVCフレームワークです。
 ### メイン機能
 * ルーティング
 * オートローダ
-* O/Rマッパー
+* O/Rマッパー(ActiveRecord風)
 * テンプレートエンジン
 * フォームHelper
 * 画像加工
